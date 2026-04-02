@@ -22,11 +22,12 @@ I am a passionate data enthusiast with a strong background in Power BI. I have e
 
 ---
 
+
 ## 🚀 Projects
 
 ### 1. AI Risk Governance Dashboard
 <p align="center">
-  <img src="https://github.com/lucianarfontes/Portfolio-Power-BI/blob/main/Assets/REP001_AI_Risk_Governance_Dashboard.gif?raw=true" width="90%">
+  <img src="https://github.com/lucianarfontes/Portfolio-Power-BI/blob/main/Assets/REP001_AI_Risk_Governance_Dashboard.JPG" width="90%">
 </p>
 
 <table>
