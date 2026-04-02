@@ -32,7 +32,7 @@ I am a passionate data enthusiast with a strong background in Power BI. I have e
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h4>🏗️ Framework & Scope</h4>
+      <h4>🏛️ Framework & Scope</h4>
       <ul>
         <li><strong>Project Title:</strong> AI Risk Exposure & Strategic Governance Dashboard</li>
         <li><strong>Language:</strong> English</li>
@@ -65,7 +65,7 @@ I am a passionate data enthusiast with a strong background in Power BI. I have e
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h4>🏗️ Framework & Scope</h4>
+      <h4>🏛️ Framework & Scope</h4>
       <ul>
         <li><strong>Project Title:</strong> Business Continuity Management & Resilience Report</li>
         <li><strong>Language:</strong> English</li>
@@ -98,7 +98,7 @@ I am a passionate data enthusiast with a strong background in Power BI. I have e
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h4>🏗️ Framework & Scope</h4>
+      <h4>🏛️ Framework & Scope</h4>
       <ul>
         <li><strong>Project Title:</strong> Food Services Operational Risk Profile Dashboard</li>
         <li><strong>Language:</strong> Portuguese</li>
@@ -131,7 +131,7 @@ I am a passionate data enthusiast with a strong background in Power BI. I have e
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h4>🏗️ Framework & Scope</h4>
+      <h4>🏛️ Framework & Scope</h4>
       <ul>
         <li><strong>Project Title:</strong> Integrated Risk Mapping & Internal Controls Dashboard</li>
         <li><strong>Language:</strong> Portuguese</li>
@@ -164,7 +164,7 @@ I am a passionate data enthusiast with a strong background in Power BI. I have e
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h4>🏗️ Framework & Scope</h4>
+      <h4>🏛️ Framework & Scope</h4>
       <ul>
         <li><strong>Project Title:</strong> Data Privacy Compliance & LGPD Governance Dashboard</li>
         <li><strong>Language:</strong> Portuguese</li>
@@ -197,7 +197,7 @@ I am a passionate data enthusiast with a strong background in Power BI. I have e
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h4>🏗️ Framework & Scope</h4>
+      <h4>🏛️ Framework & Scope</h4>
       <ul>
         <li><strong>Project Title:</strong> Strategic Value Chain & Process Mapping Dashboard</li>
         <li><strong>Language:</strong> Portuguese</li>
@@ -230,7 +230,7 @@ I am a passionate data enthusiast with a strong background in Power BI. I have e
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h4>🏗️ Framework & Scope</h4>
+      <h4>🏛️ Framework & Scope</h4>
       <ul>
         <li><strong>Project Title:</strong> Project Planning & Schedule Management Dashboard</li>
         <li><strong>Language:</strong> Portuguese</li>
@@ -263,7 +263,7 @@ I am a passionate data enthusiast with a strong background in Power BI. I have e
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h4>🏗️ Framework & Scope</h4>
+      <h4>🏛️ Framework & Scope</h4>
       <ul>
         <li><strong>Project Title:</strong> Interactive CV & Professional Skills Portfolio</li>
         <li><strong>Language:</strong> Portuguese</li>
@@ -287,6 +287,7 @@ I am a passionate data enthusiast with a strong background in Power BI. I have e
 🔗 [**Click here to access the Interactive Dashboard**](https://app.powerbi.com/view?r=ZmE5MGY5ZjQtMGJjOC00M2JiLWE0NTgtNTJhMDUyMWViYzRj)
 
 ---
+
 
 ## 🛡️ Proprietary Notice
 This project is for demonstration purposes. Due to data privacy policies and the proprietary nature of the development, the source code and raw datasets are not publicly available. If you are interested in a technical deep dive or have any questions regarding the architecture, please feel free to contact me directly.
