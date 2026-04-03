@@ -20,14 +20,26 @@ Welcome to my personal Power BI portfolio repository, focused on **Data Intellig
 
 I am a passionate data enthusiast with a strong background in Power BI. I have extensive experience in transforming raw data into meaningful insights, creating interactive dashboards, and helping businesses make data-driven decisions. With strong experience in Data Storytelling, I have developed solutions across diverse sectors including Banking, Insurance, Real Estate, Industry, Agribusiness, and Services. This portfolio showcases my proficiency in Power BI and highlights my ability to effectively communicate complex data visually.
 
----
 
+----
+
+# Power BI Portfolio Projects
+
+![Power BI](https://img.shields.io/badge/Microsoft_Power_BI-F2C811?style=for-the-badge&logo=microsoftpowerbi&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge) ![DAX](https://img.shields.io/badge/DAX-0078D4?style=for-the-badge) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white) ![QlikSense](https://img.shields.io/badge/QlikSense-009845?style=for-the-badge&logo=qlik&logoColor=white) ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) ![Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white) ![PowerPoint](https://img.shields.io/badge/Microsoft_Power_Point-B7472A?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white) ![Clipchamp](https://img.shields.io/badge/Microsoft_Clipchamp-5F259F?style=for-the-badge)
+
+Welcome to my personal Power BI portfolio repository, focused on **Data Intelligence, Business Resilience, and GRC**! Here you will find a collection of Power BI projects and dashboards that demonstrate my skills and expertise in data visualization, business intelligence, and analytics using Power BI.
+
+## 👤 About Me
+
+I am a passionate data enthusiast with a strong background in Power BI. I have extensive experience in transforming raw data into meaningful insights, creating interactive dashboards, and helping businesses make data-driven decisions. With strong experience in **Data Storytelling**, I have developed solutions across diverse sectors including Banking, Insurance, Real Estate, Industry, Agribusiness, and Services. This portfolio showcases my proficiency in Power BI and highlights my ability to effectively communicate complex data visually.
+
+---
 
 ## 🚀 Projects
 
 ### 1. AI Risk Governance Dashboard
 <p align="center">
-  <img src="https://github.com/lucianarfontes/Portfolio-Power-BI/blob/main/Assets/REP001_AI_Risk_Governance_Dashboard.JPG" width="90%">
+  <img src="https://github.com/lucianarfontes/Portfolio-Power-BI/blob/main/Assets/REP001_AI_Risk_Governance_Dashboard.JPG?raw=true" width="90%">
 </p>
 
 <table>
@@ -35,20 +47,27 @@ I am a passionate data enthusiast with a strong background in Power BI. I have e
     <td width="50%" valign="top">
       <h4>🏛️ Framework & Scope</h4>
       <ul>
-        <li><strong>Project Title:</strong> AI Risk Exposure & Strategic Governance Dashboard</li>
-        <li><strong>Language:</strong> English</li>
-        <li><strong>Overview:</strong> Specialised dashboard for AI governance and tech safety, providing a structured oversight framework for compliance and auditing.</li>
-        <li><strong>Data Source:</strong> AI Risk Repository (MIT FutureTech)</li>
-        <li><strong>Analytics Tool:</strong> Microsoft Power BI</li>
+        <li><strong><ins>Project Title:</ins></strong> AI Risk Exposure & Strategic Governance Dashboard</li>
+        <li><strong><ins>Language:</ins></strong> English</li>
+        <li><strong><ins>Overview:</ins></strong> A specialised dashboard for AI governance and tech safety, providing a structured oversight framework for compliance and auditing.</li>
+        <li><strong><ins>Data Source:</ins></strong> AI Risk Repository (MIT FutureTech).</li>
+        <li><strong><ins>Analytics Tool:</ins></strong> Microsoft Power BI.</li>
       </ul>
     </td>
     <td width="50%" valign="top">
       <h4>💡 Strategy & Intelligence</h4>
       <ul>
-        <li><strong>KPIs:</strong> Human vs AI Agency, Malicious Intent, Post-Deployment Risks.</li>
-        <li><strong>Objectives:</strong> Identify coverage gaps and enable continuous monitoring.</li>
-        <li><strong>Approach:</strong> Causal taxonomy and severity matrix (Impact vs Likelihood).</li>
-        <li><strong>Outcomes:</strong> Evidence-based security strategies for strategic decision-making.</li>
+        <li><strong><ins>KPIs:</ins></strong> <br>
+          <img src="https://img.shields.io/badge/Total_Evidence-455A64?style=flat-square" />
+          <img src="https://img.shields.io/badge/Human_Agency-455A64?style=flat-square" />
+          <img src="https://img.shields.io/badge/AI_Agency-455A64?style=flat-square" />
+          <img src="https://img.shields.io/badge/Malicious_Intent-455A64?style=flat-square" />
+          <img src="https://img.shields.io/badge/Post--Deployment_Risks-455A64?style=flat-square" />
+          <img src="https://img.shields.io/badge/Critical_Systemic_Risks-455A64?style=flat-square" />
+        </li>
+        <li><strong><ins>Objectives:</ins></strong> To identify coverage gaps, distinguish between systemic and behavioural risks, and enable continuous monitoring.</li>
+        <li><strong><ins>Approach:</ins></strong> High-level causal taxonomy, intentionality analysis, and a severity matrix cross-referencing impact and likelihood.</li>
+        <li><strong><ins>Outcomes:</ins></strong> Enhanced corporate governance and evidence-based security strategies to ground strategic decision-making.</li>
       </ul>
     </td>
   </tr>
@@ -68,20 +87,26 @@ I am a passionate data enthusiast with a strong background in Power BI. I have e
     <td width="50%" valign="top">
       <h4>🏛️ Framework & Scope</h4>
       <ul>
-        <li><strong>Project Title:</strong> Business Continuity Management & Resilience Report</li>
-        <li><strong>Language:</strong> English</li>
-        <li><strong>Overview:</strong> Strategic dashboard for monitoring operational resilience and the impact of disruptions.</li>
-        <li><strong>Data Source:</strong> Internal company guidelines and process assessments.</li>
-        <li><strong>Analytics Tool:</strong> Microsoft Power BI</li>
+        <li><strong><ins>Project Title:</ins></strong> Business Continuity Management & Resilience Report</li>
+        <li><strong><ins>Language:</ins></strong> English</li>
+        <li><strong><ins>Overview:</ins></strong> A strategic dashboard for monitoring operational resilience and the impact of disruptions on critical business processes.</li>
+        <li><strong><ins>Data Source:</ins></strong> Internal company guidelines and process assessments.</li>
+        <li><strong><ins>Analytics Tool:</ins></strong> Microsoft Power BI.</li>
       </ul>
     </td>
     <td width="50%" valign="top">
       <h4>💡 Strategy & Intelligence</h4>
       <ul>
-        <li><strong>KPIs:</strong> RTO vs RPO Matrix, Process Criticality, Financial Impact.</li>
-        <li><strong>Objectives:</strong> Prioritise recovery actions and optimise resource allocation.</li>
-        <li><strong>Approach:</strong> Integration of FMEA and BIA methodologies.</li>
-        <li><strong>Outcomes:</strong> Structured decision-making during crisis management scenarios.</li>
+        <li><strong><ins>KPIs:</ins></strong> <br>
+          <img src="https://img.shields.io/badge/Operational_Resilience_Status-455A64?style=flat-square" />
+          <img src="https://img.shields.io/badge/RTO_vs_RPO_Matrix-455A64?style=flat-square" />
+          <img src="https://img.shields.io/badge/Process_Criticality-455A64?style=flat-square" />
+          <img src="https://img.shields.io/badge/Financial_Impact-455A64?style=flat-square" />
+          <img src="https://img.shields.io/badge/PII_Levels-455A64?style=flat-square" />
+        </li>
+        <li><strong><ins>Objectives:</ins></strong> To prioritise recovery actions and optimise resources to mitigate interruptions to vital systems.</li>
+        <li><strong><ins>Approach:</ins></strong> Integration of FMEA (Failure Modes and Effects Analysis) and BIA (Business Impact Analysis) methodologies.</li>
+        <li><strong><ins>Outcomes:</ins></strong> Improved business resilience and structured decision-making during crisis management scenarios.</li>
       </ul>
     </td>
   </tr>
@@ -91,7 +116,7 @@ I am a passionate data enthusiast with a strong background in Power BI. I have e
 
 ---
 
-### 3. Ficha de Risco (Risk Profile)
+### 3. Ficha de Risco (Risk Assessment)
 <p align="center">
   <img src="https://github.com/lucianarfontes/Portfolio-Power-BI/blob/main/Assets/REP003_Dash_Ficha_de_Risco.JPG?raw=true" width="90%">
 </p>
@@ -101,26 +126,31 @@ I am a passionate data enthusiast with a strong background in Power BI. I have e
     <td width="50%" valign="top">
       <h4>🏛️ Framework & Scope</h4>
       <ul>
-        <li><strong>Project Title:</strong> Food Services Operational Risk Profile Dashboard</li>
-        <li><strong>Language:</strong> Portuguese</li>
-        <li><strong>Overview:</strong> Detalhamento de causas, impactos e medidas preventivas no setor de alimentação.</li>
-        <li><strong>Data Source:</strong> Dados operacionais simulados (Bares e Restaurantes).</li>
-        <li><strong>Analytics Tool:</strong> Microsoft Power BI</li>
+        <li><strong><ins>Project Title:</ins></strong> Food Services Operational Risk Profile Dashboard</li>
+        <li><strong><ins>Language:</ins></strong> Portuguese</li>
+        <li><strong><ins>Overview:</ins></strong> A detailed risk profile for the catering sector, focusing on causes, impacts, and preventive measures for identified risks.</li>
+        <li><strong><ins>Data Source:</ins></strong> Simulated operational data for bar and restaurant scenarios.</li>
+        <li><strong><ins>Analytics Tool:</ins></strong> Microsoft Power BI.</li>
       </ul>
     </td>
     <td width="50%" valign="top">
       <h4>💡 Strategy & Intelligence</h4>
       <ul>
-        <li><strong>KPIs:</strong> Nível de Risco, Tendência, Critérios de Impacto (Legal, Financeiro).</li>
-        <li><strong>Objectives:</strong> Garantir ambiente operacional seguro e conformidade legal.</li>
-        <li><strong>Approach:</strong> Matriz de Risco vinculada a planos de contingência.</li>
-        <li><strong>Outcomes:</strong> Insights dinâmicos para implementação de controles direcionados.</li>
+        <li><strong><ins>KPIs:</ins></strong> <br>
+          <img src="https://img.shields.io/badge/Risk_Level-455A64?style=flat-square" />
+          <img src="https://img.shields.io/badge/Trend-455A64?style=flat-square" />
+          <img src="https://img.shields.io/badge/Impact_Criteria-455A64?style=flat-square" />
+          <img src="https://img.shields.io/badge/Likelihood-455A64?style=flat-square" />
+        </li>
+        <li><strong><ins>Objectives:</ins></strong> To prioritise high-impact risks and ensure a safe, reliable, and compliant operational environment.</li>
+        <li><strong><ins>Approach:</ins></strong> Risk Matrix (Impact vs Likelihood) linked to contingency plans and rigorous preventive actions.</li>
+        <li><strong><ins>Outcomes:</ins></strong> Dynamic insights for strategic decision-making and the implementation of targeted risk controls.</li>
       </ul>
     </td>
   </tr>
 </table>
 
-🔗 [**Click here to access the Interactive Dashboard**](https://app.powerbi.com/view?r=eyJrIjoiMDAyZTk1MmItNDNhMi00MWM5LTk3YzctYjMwYTU3YTk5ODZmIiwidCI6ImJlODdhZDEwLTNmZWEtNDY5OC1hZDJmLTliN2VlOTM4YTYyZiJ9)
+🔗 [**Click here to access the Interactive Dashboard**](https://app.powerbi.com/view?r=eyJrIjoiMDAyZTk1MmItNDNhMi00MWM5LTk3YzctYjMwYTU3YTk5ODZmIiwidCI6ImJlODdhZDEwLTNmZWEtNDY5OC1hZDJmLTliN2VlOTM4YTYyZiJ9&embedImagePlaceholder=true)
 
 ---
 
@@ -134,20 +164,26 @@ I am a passionate data enthusiast with a strong background in Power BI. I have e
     <td width="50%" valign="top">
       <h4>🏛️ Framework & Scope</h4>
       <ul>
-        <li><strong>Project Title:</strong> Integrated Risk Mapping & Internal Controls Dashboard</li>
-        <li><strong>Language:</strong> Portuguese</li>
-        <li><strong>Overview:</strong> Fusão entre identificação de riscos operacionais e análise de atividades de controle.</li>
-        <li><strong>Data Source:</strong> Inventários de processos e catálogos de riscos departamentais.</li>
-        <li><strong>Analytics Tool:</strong> Microsoft Power BI</li>
+        <li><strong><ins>Project Title:</ins></strong> Integrated Risk Mapping & Internal Controls Dashboard</li>
+        <li><strong><ins>Language:</ins></strong> Portuguese</li>
+        <li><strong><ins>Overview:</ins></strong> A comprehensive view of the control environment, merging operational risk identification with control activity analysis.</li>
+        <li><strong><ins>Data Source:</ins></strong> Process inventories and departmental risk catalogues.</li>
+        <li><strong><ins>Analytics Tool:</ins></strong> Microsoft Power BI.</li>
       </ul>
     </td>
     <td width="50%" valign="top">
       <h4>💡 Strategy & Intelligence</h4>
       <ul>
-        <li><strong>KPIs:</strong> Total de Riscos vs Controles, Nível de Risco por Processo.</li>
-        <li><strong>Objectives:</strong> Identificar lacunas de controle e priorizar temas críticos.</li>
-        <li><strong>Approach:</strong> Heat Maps e análise de natureza do controle (Preventivo vs Detectivo).</li>
-        <li><strong>Outcomes:</strong> Governança corporativa fortalecida e monitoramento proativo.</li>
+        <li><strong><ins>KPIs:</ins></strong> <br>
+          <img src="https://img.shields.io/badge/Total_Risks-455A64?style=flat-square" />
+          <img src="https://img.shields.io/badge/Distinct_Risks-455A64?style=flat-square" />
+          <img src="https://img.shields.io/badge/Total_Controls-455A64?style=flat-square" />
+          <img src="https://img.shields.io/badge/Risk_Level_per_Process-455A64?style=flat-square" />
+          <img src="https://img.shields.io/badge/Control_Frequency-455A64?style=flat-square" />
+        </li>
+        <li><strong><ins>Objectives:</ins></strong> To pinpoint control gaps and prioritise risks across departments and themes (Legal, Financial).</li>
+        <li><strong><ins>Approach:</ins></strong> Implementation of prioritisation Heat Maps and analysis of control nature (Preventive vs Detective).</li>
+        <li><strong><ins>Outcomes:</ins></strong> Strengthened corporate governance through a structured risk catalogue and proactive failure monitoring.</li>
       </ul>
     </td>
   </tr>
@@ -167,20 +203,25 @@ I am a passionate data enthusiast with a strong background in Power BI. I have e
     <td width="50%" valign="top">
       <h4>🏛️ Framework & Scope</h4>
       <ul>
-        <li><strong>Project Title:</strong> Data Privacy Compliance & LGPD Governance Dashboard</li>
-        <li><strong>Language:</strong> Portuguese</li>
-        <li><strong>Overview:</strong> Monitoramento de conformidade com a LGPD e exposição ao risco de privacidade.</li>
-        <li><strong>Data Source:</strong> Auditorias de privacidade e questionários de controle.</li>
-        <li><strong>Analytics Tool:</strong> Microsoft Power BI</li>
+        <li><strong><ins>Project Title:</ins></strong> Data Privacy Compliance & LGPD Governance Dashboard</li>
+        <li><strong><ins>Language:</ins></strong> Portuguese</li>
+        <li><strong><ins>Overview:</ins></strong> A dedicated tool for monitoring compliance with data protection laws and assessing compliance risk exposure.</li>
+        <li><strong><ins>Data Source:</ins></strong> Privacy audits and data control assessment questionnaires.</li>
+        <li><strong><ins>Analytics Tool:</ins></strong> Microsoft Power BI.</li>
       </ul>
     </td>
     <td width="50%" valign="top">
       <h4>💡 Strategy & Intelligence</h4>
       <ul>
-        <li><strong>KPIs:</strong> Nível de Adequação, Exposição ao Risco, Dimensões de Segurança.</li>
-        <li><strong>Objectives:</strong> Garantir aderência total aos padrões de proteção de dados.</li>
-        <li><strong>Approach:</strong> Análise multidimensional (Estrutura, Sistema e Temas de Privacidade).</li>
-        <li><strong>Outcomes:</strong> Visibilidade jurídica e suporte à implementação de diretrizes.</li>
+        <li><strong><ins>KPIs:</ins></strong> <br>
+          <img src="https://img.shields.io/badge/Compliance_Level-455A64?style=flat-square" />
+          <img src="https://img.shields.io/badge/Compliance_Risk_Exposure-455A64?style=flat-square" />
+          <img src="https://img.shields.io/badge/Privacy_Themes-455A64?style=flat-square" />
+          <img src="https://img.shields.io/badge/Security_Dimensions-455A64?style=flat-square" />
+        </li>
+        <li><strong><ins>Objectives:</ins></strong> To ensure full adherence to LGPD standards regarding data privacy and information security.</li>
+        <li><strong><ins>Approach:</ins></strong> Multidimensional analysis covering control structures, privacy themes, and system security.</li>
+        <li><strong><ins>Outcomes:</ins></strong> Enhanced visibility of legal risk exposure and support for the implementation of data protection guidelines.</li>
       </ul>
     </td>
   </tr>
@@ -190,7 +231,7 @@ I am a passionate data enthusiast with a strong background in Power BI. I have e
 
 ---
 
-### 6. Processos (Process Excellence)
+### 6. Processos (Process Landscape)
 <p align="center">
   <img src="https://github.com/lucianarfontes/Portfolio-Power-BI/blob/main/Assets/REP006_Dash_Processos.png?raw=true" width="90%">
 </p>
@@ -200,30 +241,34 @@ I am a passionate data enthusiast with a strong background in Power BI. I have e
     <td width="50%" valign="top">
       <h4>🏛️ Framework & Scope</h4>
       <ul>
-        <li><strong>Project Title:</strong> Strategic Value Chain & Process Mapping Dashboard</li>
-        <li><strong>Language:</strong> Portuguese</li>
-        <li><strong>Overview:</strong> Mapeamento de macroprocessos alinhando operações à visão corporativa.</li>
-        <li><strong>Data Source:</strong> Arquitetura de processos e manuais operacionais.</li>
-        <li><strong>Analytics Tool:</strong> Microsoft Power BI</li>
+        <li><strong><ins>Project Title:</ins></strong> Strategic Value Chain & Process Mapping Dashboard</li>
+        <li><strong><ins>Language:</ins></strong> Portuguese</li>
+        <li><strong><ins>Overview:</ins></strong> A full mapping of macro-processes and task catalogues, aligning operations with corporate vision and values.</li>
+        <li><strong><ins>Data Source:</ins></strong> Internal process architecture and operational manuals.</li>
+        <li><strong><ins>Analytics Tool:</ins></strong> Microsoft Power BI.</li>
       </ul>
     </td>
     <td width="50%" valign="top">
       <h4>💡 Strategy & Intelligence</h4>
       <ul>
-        <li><strong>KPIs:</strong> Exposição ao Risco por Processo, Volume de Subprocessos/Tarefas.</li>
-        <li><strong>Objectives:</strong> Prover visão estratégica da cadeia de valor.</li>
-        <li><strong>Approach:</strong> Decomposição hierárquica (Tree Visual) do macro ao detalhe.</li>
-        <li><strong>Outcomes:</strong> Clareza organizacional e suporte ao alcance dos objetivos de negócio.</li>
+        <li><strong><ins>KPIs:</ins></strong> <br>
+          <img src="https://img.shields.io/badge/Risk_Exposure_per_Process-455A64?style=flat-square" />
+          <img src="https://img.shields.io/badge/Risk_Classification-455A64?style=flat-square" />
+          <img src="https://img.shields.io/badge/Volume_of_Sub--processes--Tasks-455A64?style=flat-square" />
+        </li>
+        <li><strong><ins>Objectives:</ins></strong> To provide a strategic view of the value chain, integrating core and support business functions.</li>
+        <li><strong><ins>Approach:</ins></strong> Hierarchical decomposition (Tree Visual) from macro-processes down to specific tasks and associated risks.</li>
+        <li><strong><ins>Outcomes:</ins></strong> Improved organisational clarity and enhanced process management to support business objectives.</li>
       </ul>
     </td>
   </tr>
 </table>
 
-🔗 [**Click here to access the Interactive Dashboard**](https://app.powerbi.com/view?r=ZWM1NGIwYjAtZjRjMi00MzY1LWEzMTgtZjA5ZjJkNzIzYjYw)
+🔗 [**Click here to access the Interactive Dashboard**](https://app.powerbi.com/view?r=eyJrIjoiZWM1NGIwYjAtZjRjMi00MzY1LWEzMTgtZjA5ZjJkNzIzYjYwIiwidCI6ImJlODdhZDEwLTNmZWEtNDY5OC1hZDJmLTliN2VlOTM4YTYyZiJ9)
 
 ---
 
-### 7. Planejamento (Planning)
+### 7. Planejamento (Project Planning & Tracking Dashboard)
 <p align="center">
   <img src="https://github.com/lucianarfontes/Portfolio-Power-BI/blob/main/Assets/REP007_Dash_Planejamento.JPG?raw=true" width="90%">
 </p>
@@ -233,30 +278,36 @@ I am a passionate data enthusiast with a strong background in Power BI. I have e
     <td width="50%" valign="top">
       <h4>🏛️ Framework & Scope</h4>
       <ul>
-        <li><strong>Project Title:</strong> Project Planning & Schedule Management Dashboard</li>
-        <li><strong>Language:</strong> Portuguese</li>
-        <li><strong>Overview:</strong> Acompanhamento em tempo real de cronogramas e gestão de horas.</li>
-        <li><strong>Data Source:</strong> Cronogramas de projetos e logs de timesheet.</li>
-        <li><strong>Analytics Tool:</strong> Microsoft Power BI</li>
+        <li><strong><ins>Project Title:</ins></strong> Project Planning & Schedule Management Dashboard</li>
+        <li><strong><ins>Language:</ins></strong> Portuguese</li>
+        <li><strong><ins>Overview:</ins></strong> A real-time monitoring tool for tracking project activity progress and efficient resource hour management.</li>
+        <li><strong><ins>Data Source:</ins></strong> Project schedules and timesheet logs.</li>
+        <li><strong><ins>Analytics Tool:</ins></strong> Microsoft Power BI.</li>
       </ul>
     </td>
     <td width="50%" valign="top">
       <h4>💡 Strategy & Intelligence</h4>
       <ul>
-        <li><strong>KPIs:</strong> Horas Acordadas vs Utilizadas, Status de Atividade, Progresso de Escopo.</li>
-        <li><strong>Objectives:</strong> Garantir cumprimento de milestones e prazos.</li>
-        <li><strong>Approach:</strong> Integração de Gráficos de Gantt com métricas de esforço.</li>
-        <li><strong>Outcomes:</strong> Entrega de projetos no prazo e alocação de recursos otimizada.</li>
+        <li><strong><ins>KPIs:</ins></strong> <br>
+          <img src="https://img.shields.io/badge/Agreed_Hours-455A64?style=flat-square" />
+          <img src="https://img.shields.io/badge/Actual_Hours-455A64?style=flat-square" />
+          <img src="https://img.shields.io/badge/Estimated_Hours-455A64?style=flat-square" />
+          <img src="https://img.shields.io/badge/Activity_Status-455A64?style=flat-square" />
+          <img src="https://img.shields.io/badge/Scope_Progress-455A64?style=flat-square" />
+        </li>
+        <li><strong><ins>Objectives:</ins></strong> To ensure milestone compliance and provide detailed tracking of project delivery phases.</li>
+        <li><strong><ins>Approach:</ins></strong> Integration of Gantt charts with effort metrics (estimated vs actual) segmented by department.</li>
+        <li><strong><ins>Outcomes:</ins></strong> Timely project delivery and optimised resource allocation throughout the development lifecycle.</li>
       </ul>
     </td>
   </tr>
 </table>
 
-🔗 [**Click here to access the Interactive Dashboard**](https://app.powerbi.com/view?r=YTBlY2I4MDQtYzhhYy00YWQ2LThmNzItNDRlOTY3MWUxYjBm)
+🔗 [**Click here to access the Interactive Dashboard**](https://app.powerbi.com/view?r=eyJrIjoiYTBlY2I4MDQtYzhhYy00YWQ2LThmNzItNDRlOTY3MWUxYjBmIiwidCI6ImJlODdhZDEwLTNmZWEtNDY5OC1hZDJmLTliN2VlOTM4YTYyZiJ9)
 
 ---
 
-### 8. Dash CV (Interactive Portfolio)
+### 8. CV (Interactive Portfolio)
 <p align="center">
   <img src="https://github.com/lucianarfontes/Portfolio-Power-BI/blob/main/Assets/REP008_Dash_CV.JPG?raw=true" width="90%">
 </p>
@@ -266,26 +317,31 @@ I am a passionate data enthusiast with a strong background in Power BI. I have e
     <td width="50%" valign="top">
       <h4>🏛️ Framework & Scope</h4>
       <ul>
-        <li><strong>Project Title:</strong> Interactive CV & Professional Skills Portfolio</li>
-        <li><strong>Language:</strong> Portuguese</li>
-        <li><strong>Overview:</strong> Apresentação dinâmica do histórico profissional e qualificações técnicas.</li>
-        <li><strong>Data Source:</strong> Histórico de carreira e dados de conexões LinkedIn.</li>
-        <li><strong>Analytics Tool:</strong> Microsoft Power BI</li>
+        <li><strong><ins>Project Title:</ins></strong> Interactive CV & Professional Skills Portfolio</li>
+        <li><strong><ins>Language:</ins></strong> Portuguese</li>
+        <li><strong><ins>Overview:</ins></strong> A dynamic presentation of professional history, technical qualifications, and completed BI projects.</li>
+        <li><strong><ins>Data Source:</ins></strong> Career history, academic records, and LinkedIn API/connection data.</li>
+        <li><strong><ins>Analytics Tool:</ins></strong> Microsoft Power BI.</li>
       </ul>
     </td>
     <td width="50%" valign="top">
       <h4>💡 Strategy & Intelligence</h4>
       <ul>
-        <li><strong>KPIs:</strong> Anos de Experiência, Volume de Projetos, Conexões LinkedIn.</li>
-        <li><strong>Objectives:</strong> Prover uma visão abrangente do perfil profissional para networking.</li>
-        <li><strong>Approach:</strong> Visualização de dados de carreira com filtros interativos.</li>
-        <li><strong>Outcomes:</strong> Fortalecimento do Personal Branding e engajamento com recrutadores.</li>
+        <li><strong><ins>KPIs:</ins></strong> <br>
+          <img src="https://img.shields.io/badge/Years_of_Experience-455A64?style=flat-square" />
+          <img src="https://img.shields.io/badge/Project_Volume-455A64?style=flat-square" />
+          <img src="https://img.shields.io/badge/LinkedIn_Connections-455A64?style=flat-square" />
+          <img src="https://img.shields.io/badge/Testimonials_Received-455A64?style=flat-square" />
+        </li>
+        <li><strong><ins>Objectives:</ins></strong> To provide a comprehensive and interactive view of the professional profile for networking.</li>
+        <li><strong><ins>Approach:</ins></strong> Visualisation of career data using maps, word clouds, and interactive experience filters.</li>
+        <li><strong><ins>Outcomes:</ins></strong> Enhanced personal branding and improved engagement with hiring teams through a visual profile.</li>
       </ul>
     </td>
   </tr>
 </table>
 
-🔗 [**Click here to access the Interactive Dashboard**](https://app.powerbi.com/view?r=ZmE5MGY5ZjQtMGJjOC00M2JiLWE0NTgtNTJhMDUyMWViYzRj)
+🔗 [**Click here to access the Interactive Dashboard**](https://app.powerbi.com/view?r=eyJrIjoiZmE5MGY5ZjQtMGJjOC00M2JiLWE0NTgtNTJhMDUyMWViYzRjIiwidCI6ImJlODdhZDEwLTNmZWEtNDY5OC1hZDJmLTliN2VlOTM4YTYyZiJ9)
 
 ---
 
