@@ -20,6 +20,14 @@ Welcome to my personal Power BI portfolio repository, focused on **Data Intellig
 
 I am a passionate data enthusiast with a strong background in Power BI. I have extensive experience in transforming raw data into meaningful insights, creating interactive dashboards, and helping businesses make data-driven decisions. With strong experience in Data Storytelling, I have developed solutions across diverse sectors including Banking, Insurance, Real Estate, Industry, Agribusiness, and Services. This portfolio showcases my proficiency in Power BI and highlights my ability to effectively communicate complex data visually.
 
+<p align="center">
+<a href="https://www.linkedin.com/in/lucianarfontes">
+  <img src="https://img.shields.io/badge/LinkedIn-in/lucianarfontes-455A64?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:lucianarfontes@outlook.com">
+  <img src="https://img.shields.io/badge/Email-lucianarfontes@outlook.com-455A64?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
+</a>
 
 ---
 
