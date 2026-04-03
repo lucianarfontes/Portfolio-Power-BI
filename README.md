@@ -21,18 +21,6 @@ Welcome to my personal Power BI portfolio repository, focused on **Data Intellig
 I am a passionate data enthusiast with a strong background in Power BI. I have extensive experience in transforming raw data into meaningful insights, creating interactive dashboards, and helping businesses make data-driven decisions. With strong experience in Data Storytelling, I have developed solutions across diverse sectors including Banking, Insurance, Real Estate, Industry, Agribusiness, and Services. This portfolio showcases my proficiency in Power BI and highlights my ability to effectively communicate complex data visually.
 
 
-----
-
-# Power BI Portfolio Projects
-
-![Power BI](https://img.shields.io/badge/Microsoft_Power_BI-F2C811?style=for-the-badge&logo=microsoftpowerbi&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge) ![DAX](https://img.shields.io/badge/DAX-0078D4?style=for-the-badge) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white) ![QlikSense](https://img.shields.io/badge/QlikSense-009845?style=for-the-badge&logo=qlik&logoColor=white) ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) ![Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white) ![PowerPoint](https://img.shields.io/badge/Microsoft_Power_Point-B7472A?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white) ![Clipchamp](https://img.shields.io/badge/Microsoft_Clipchamp-5F259F?style=for-the-badge)
-
-Welcome to my personal Power BI portfolio repository, focused on **Data Intelligence, Business Resilience, and GRC**! Here you will find a collection of Power BI projects and dashboards that demonstrate my skills and expertise in data visualization, business intelligence, and analytics using Power BI.
-
-## 👤 About Me
-
-I am a passionate data enthusiast with a strong background in Power BI. I have extensive experience in transforming raw data into meaningful insights, creating interactive dashboards, and helping businesses make data-driven decisions. With strong experience in **Data Storytelling**, I have developed solutions across diverse sectors including Banking, Insurance, Real Estate, Industry, Agribusiness, and Services. This portfolio showcases my proficiency in Power BI and highlights my ability to effectively communicate complex data visually.
-
 ---
 
 ## 🚀 Projects
