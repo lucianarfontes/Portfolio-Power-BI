@@ -35,8 +35,6 @@ I am a passionate data enthusiast with a strong background in Power BI. I have e
 </a>
 
 
----
-
 ## 🚀 Projects
 
 ### 1. AI Risk Governance Dashboard
