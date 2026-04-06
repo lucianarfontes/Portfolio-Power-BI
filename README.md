@@ -348,8 +348,14 @@ I am a passionate data enthusiast with a strong background in Power BI. I have e
 ---
 
 
-## 🛡️ Proprietary Notice
-This project is for demonstration purposes. Due to data privacy policies and the proprietary nature of the development, the source code and raw datasets are not publicly available. If you are interested in a technical deep dive or have any questions regarding the architecture, please feel free to contact me directly.
+### 🛡️ Proprietary Notice
+> This project is for demonstration purposes. Due to data privacy policies and the proprietary nature of the development, the source code and raw datasets are not publicly available. If you are interested in a technical deep dive or have any questions regarding the architecture, please feel free to contact me directly.
+
+<div align="center">
+
+![Last Updated](https://img.shields.io/badge/Last_Updated-Q1_2026-blue?style=flat-square)
+
+</div>
 
 ---
 <p align="center">© 2026 Luciana Fontes. All rights reserved.</p>
